@@ -6,7 +6,7 @@
 
 ### Guide
 
-🇰🇷 : [가이드 바로가기]([https://medium.com/@scorpion0120/webpack-react-typescript-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-45ac353450fb?postPublishedType=initial](https://medium.com/@scorpion0120/webpack-react-typescript-개발-환경-구축하기-45ac353450fb?postPublishedType=initial))
+🇰🇷 : [Webpack + React + Typescript 개발 환경 구축하기](https://medium.com/@scorpion0120/webpack-react-typescript-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-45ac353450fb?postPublishedType=initial)
 
 🇺🇸 : will be added soon…. 🤔
 
